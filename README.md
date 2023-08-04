@@ -1,7 +1,7 @@
 ### Hi, I'm Anooshkha and welcome to my github! 👋
 
 - 🎓 I am currently a Math of Computation Major @UCLA, graduating June 2025.
-- 💻 Working at: NASA on computational fluid dynamics (CFD)
+- 💻 Working at: NASA on computational fluid dynamics (CFD) software
 - 💬 Languages: Python, Java, C/C++, Java Script, HTML, CSS
 - 📫 Contact me at: anooshkhashetty@gmail.com
 
