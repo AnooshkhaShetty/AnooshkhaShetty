@@ -1,6 +1,6 @@
 ### Hi, I'm Anooshkha and welcome to my github! 👋
 
-- 🎓 I am currently a Math of Computation Major @UCLA, graduating June 2025.
+- 🎓 I am currently a CS + Math major @UCLA, graduating June 2025.
 - 💻 Working at: NASA
 - 💬 Languages: Python, Java, C/C++, Java Script, HTML, CSS
 - 📫 Contact me at: anooshkhashetty@gmail.com
