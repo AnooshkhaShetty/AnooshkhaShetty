@@ -1,8 +1,12 @@
 ### Hi, I'm Anooshkha and welcome to my github! 👋
 
 - 🎓 I am currently a CS + Math major @UCLA, graduating June 2025.
-- 💻 Working at: NASA
+- 💻 I previously interned at <b>NASA</b> as a Software Engineering Intern
+- 🌱 I am the [ACM at UCLA](https://github.com/uclaacm) Teach LA Dev Team Training Director
+  * Teach LA's goal is to empower all students with the ability to code, and use it to make a difference.
+  * [Learn more](https://teachla.uclaacm.com/dev) about the Dev Team and the work we do!
 - 💬 Languages: Python, Java, C/C++, Java Script, HTML, CSS
-- 📫 Contact me at: anooshkhashetty@gmail.com
+- 📫 Email me at: anooshkhashetty@gmail.com
+- 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/anooshkha-shetty/)
 
 ![Top Langs](https://github-readme-stats-anooshkhashetty.vercel.app/api/top-langs/?username=AnooshkhaShetty&langs_count=6&theme=tokyonight&layout=compact)
