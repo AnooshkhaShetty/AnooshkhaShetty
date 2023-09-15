@@ -1,6 +1,6 @@
 ### Hi, I'm Anooshkha and welcome to my github! 👋
 
-- 🎓 I am currently a CS + Math major @UCLA, graduating June 2025.
+- 🎓 I am currently a CS + Math major @UCLA, graduating Spring 2025.
 - 💻 I previously interned at <b>NASA</b> as a Software Engineering Intern
 - 🌱 I am the [ACM at UCLA](https://github.com/uclaacm) Teach LA Dev Team Training Director
   * Teach LA's goal is to empower all students with the ability to code, and use it to make a difference.
