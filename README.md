@@ -6,5 +6,3 @@
 - 💬 Languages: Python, Java, C/C++, Java Script, HTML, CSS
 - 📫 Email me at: anooshkhashetty@gmail.com
 - 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/anooshkha-shetty/)
-
-![Top Langs](https://github-readme-stats-anooshkhashetty.vercel.app/api/top-langs/?username=AnooshkhaShetty&langs_count=6&theme=tokyonight&layout=compact)
